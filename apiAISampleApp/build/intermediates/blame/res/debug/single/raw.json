@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_stop.mp3",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/src/main/res/raw/test_stop.mp3"
+    },
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/res/merged/debug/raw/version_config.json",
+        "source": "/home/zemoso/.android/build-cache/ac08ad6b500361cbe2150e7b1f1374408dc797c1/output/res/raw/version_config.json"
+    },
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_cancel.wav",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/src/main/res/raw/test_cancel.wav"
+    },
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/res/merged/debug/raw/test_start.wav",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/src/main/res/raw/test_start.wav"
+    }
+]

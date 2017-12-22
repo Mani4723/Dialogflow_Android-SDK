@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/.android/build-cache/12e1aba05c5eee09fe171c5a22ece8ff837211fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/classes_ccc2f717e481a732e3a40ba94c9984fdd09bf11c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/.android/build-cache/b157defe2cdaac37cdfa51c775d4e88468cc6f82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/classes_c40f2b8b22e523ef8f33b4d0e1e7178add935f28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/gson-2.8.1_3e9d23b4081c1b00b0a659fc15d1e52520253b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_0f00b15044b2a4f67c679cc1f5399cb5946d1a08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a1986688d490a0f303ea3b20c8515128b7a8e53/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/.gradle/caches/modules-2/files-2.1/ai.api/libai/1.6.11/7ed52895bd658861359a8f3e9e14983fda2953b6/libai-1.6.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7ed52895bd658861359a8f3e9e14983fda2953b6">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/libai-1.6.11_943012b6a6f83a49ae195743ce70de84a3758bf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/ailib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19357f325ed10ca8c1ece46ffd1dd120450d7afd">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/classes_74775c898ce2da2b441740345679a763feb73c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/.android/build-cache/1c26b4ac97fb3e85c1b6fb000604f3139129d187/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/classes_41dc78d2d4471f0c567b51343e2be7933b4a2fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/.android/build-cache/b157defe2cdaac37cdfa51c775d4e88468cc6f82/output/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_cdb1692aecc864da836d6f4359e134f5b61246cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/.android/build-cache/38541a87c22b460ef1488c894260caed5bb7914b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/classes_0eb183de347625b033591d5499a99e7bb6fa4f11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/zemoso/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da76ca59f6a57ee3102f8f9bd9cee742973efa8a">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/pre-dexed/debug/slf4j-api-1.7.25_0e51d3f0ff908e176bca2e4167639f8f679744a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="be72a55c962edb0e7c69183cffc0ec9c9af170be">
+        <dex dex="/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa0083dccf2e7f895e55996fc380688393a6b4bd/classes.dex" />
+    </item>
+
+</items>

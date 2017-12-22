@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/res/merged/debug/menu/menu_aiservice_sample.xml",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/src/main/res/menu/menu_aiservice_sample.xml"
+    },
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/res/merged/debug/menu/menu_aibutton_sample.xml",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/src/main/res/menu/menu_aibutton_sample.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/ailib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/speaker_silent.png",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/ailib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/speaker_silent.png"
+    },
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/ailib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/cube.png",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/ailib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/cube.png"
+    },
+    {
+        "merged": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/ailib/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/microphone_control.png",
+        "source": "/home/zemoso/AndroidStudioProjects/dialogflow-android-client/ailib/build/intermediates/bundles/debug/res/drawable-xxhdpi-v4/microphone_control.png"
+    }
+]

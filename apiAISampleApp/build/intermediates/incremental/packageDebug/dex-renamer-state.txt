@@ -1,0 +1,7 @@
+#Wed Dec 20 13:05:47 IST 2017
+base.0=/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a1986688d490a0f303ea3b20c8515128b7a8e53
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa0083dccf2e7f895e55996fc380688393a6b4bd/classes.dex
+base.1=/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_aa0083dccf2e7f895e55996fc380688393a6b4bd
+file.0=/home/zemoso/AndroidStudioProjects/dialogflow-android-client/apiAISampleApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4a1986688d490a0f303ea3b20c8515128b7a8e53/classes.dex
